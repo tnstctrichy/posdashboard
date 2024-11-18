@@ -1,4 +1,5 @@
+plotly==5.11.0
+numpy==1.23.0
 streamlit
 pandas
-plotly==5.9.0  # You can specify a version like 5.9.0 or any other stable version
 openpyxl
